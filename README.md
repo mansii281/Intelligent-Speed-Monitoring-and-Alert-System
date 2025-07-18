@@ -52,7 +52,7 @@ This project was developed during the **NVIDIA GRIL Training Program**, an inten
 ```bash
 sudo apt update
 sudo apt install python3.8-venv
-python3.8 -m venv newenv
+python3 -m venv newenv
 source newenv/bin/activate
 ```
 
